@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1AAa3e26Cf05f751F8EFE0E3C81365d75CDbA9E4",
+  "SCAN_LINK": "https://etherscan.io/address/0x1AAa3e26Cf05f751F8EFE0E3C81365d75CDbA9E4",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "HUEPHORIA",
+  "SYMBOL": "HUE",
+  "MAX_SUPPLY": 777,
+  "WEI_COST": 45000000000000000,
+  "DISPLAY_COST": 0.045,
+  "GAS_LIMIT": 99814,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/huephoria",
+  "SHOW_BACKGROUND": true
+}
